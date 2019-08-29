@@ -24,3 +24,8 @@ First try to do it yourself! If you are stuck, the following instructions should
  
  ## What you have learned
  You've just shared code with me! In the modern era, small and large teams build the technology of the future. You now possess this awesome power!
+
+## Want to learn more? 
+
+https://guides.github.com/activities/hello-world/ 
+Feel free to add more stuff to this doc! 
