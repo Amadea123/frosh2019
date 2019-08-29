@@ -4,7 +4,7 @@ Computer Lab Puzzle
 In this activity you will setup a Github and create a pull request!
 https://github.com/ssss-sfu/frosh2019/
 
-To complete the task, create a new file (can be a .md, .txt, or other), write something / make some ascii art / share a meme, and create a new branch and start a pull request. 
+To complete the task, edit this README.md, write something / make some ascii art / share a meme, propose file change and start a pull request. 
 
 ## FAQ:
 - What is Github?
