@@ -29,3 +29,8 @@ First try to do it yourself! If you are stuck, the following instructions should
 
 https://guides.github.com/activities/hello-world/ 
 Feel free to add more stuff to this doc! 
+
+
+    |\__/,|   (`\
+  _.|o o  |_   ) )
+-(((---(((--------
